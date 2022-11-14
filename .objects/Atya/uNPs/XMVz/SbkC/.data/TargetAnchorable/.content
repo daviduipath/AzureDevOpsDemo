@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/" ContentHash="QzH16gf44k2ECTVLmQmt0w" DesignTimeRectangle="1580, 166, 73, 50" ElementType="Text" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl aaname='Login' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Login' tag='A' type='' check:text='Login' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0z4eWIhmIxU-kRJKcHJo1lw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7af48c5293f99e9b033d841d856d8999.png" xmlns="">0nbYOQHbs8UOcUlVXEoCEVQ</imageRef>
+</TargetAnchorable>

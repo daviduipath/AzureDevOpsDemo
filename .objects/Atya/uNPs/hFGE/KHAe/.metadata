@@ -1,0 +1,14 @@
+﻿{
+  "Id": "KHAeNG4C90SRUQmSk_45rA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/KHAeNG4C90SRUQmSk_45rA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/hFGExWrj90axqf8HPi44bw",
+  "Name": "Marital Status - Dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-01-28T01:59:29.689221Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:29.689221Z"
+}

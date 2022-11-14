@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/loans/result/6070c75937ca88002d26c3ad/8/true" ContentHash="oNj0sa5mskWCrIg_E1F2Rg" DesignTimeRectangle="904, 578, 19, 43" ElementType="Text" FriendlyName="'8'" FullSelectorArgument="&lt;webctrl id='rateValue' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='rateValue' tag='SPAN' type='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="290, 542, 1338, 30" FriendlyName="'With a fantastic rate of'" FullSelectorArgument="&lt;webctrl tag='H5' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H5' type='' aaname=' With a fantastic rate of: ' check:text='With a fantastic rate of:' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0F-woY2BXG0aL0mWalF5ISg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="66ffaa8011e641125bc74de2b7d24079.png" xmlns="">0Ot6b13E88U-vAzoMpA8dsw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "rd2QsE0FYEGQF0tg4SYaGA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/rd2QsE0FYEGQF0tg4SYaGA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/hFGExWrj90axqf8HPi44bw",
+  "Name": "Sex - Dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-01-28T01:59:29.9519355Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:29.9519355Z"
+}

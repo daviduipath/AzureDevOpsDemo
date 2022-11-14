@@ -1,0 +1,11 @@
+﻿{
+  "Id": "d8TB1MWTmkOGHwnjcGiYkw",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/d8TB1MWTmkOGHwnjcGiYkw",
+  "Name": "UiPath Testing Orchestrator (Chrome)",
+  "Type": "App",
+  "Created": "2021-04-10T14:06:28.9554192Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-10T14:06:28.9554192Z"
+}

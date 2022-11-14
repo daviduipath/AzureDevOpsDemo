@@ -1,0 +1,17 @@
+﻿{
+  "Id": "6XjTsMoRm06SqyXiPCED1A",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/6XjTsMoRm06SqyXiPCED1A",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/cDAjSU24VEehiGRI14bhKA",
+  "Name": "Already Have A Loan? - Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-01-28T01:59:28.7398886Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.7398886Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://orch-testingsol-web0-we-webapp.azurewebsites.net/test/data-queues?tid=1&amp;fid=360" ContentHash="nOC4ur4ce0-_ASNPCyuRRg" DesignTimeRectangle="51, 373, 99, 11" ElementType="Text" FriendlyName="'Vikram Parolkar (MF)'" FullSelectorArgument="&lt;webctrl aaname='Vikram Parolkar (MF) ' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Vikram Parolkar (MF) ' tag='SPAN' type='' check:text='Vikram Parolkar (MF)' /&gt;" Reference="wVI5HSW7LEyT7q7uNHBieA/dS0JciPB1USG7IAXB-VlOw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Data Queues - UiPath Orchestrator' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="27, 369, 19, 19" ElementType="Icon" FriendlyName="'folder_shared'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;ui-app&amp;gt;ng-component&amp;gt;ui-sidenav&amp;gt;mat-sidenav-container&amp;gt;mat-sidenav&amp;gt;div&amp;gt;ui-sidebar-redesign&amp;gt;div&amp;gt;div&amp;gt;ui-folder-sidebar&amp;gt;section&amp;gt;ui-folder-tree&amp;gt;div&amp;gt;div&amp;gt;cdk-virtual-scroll-viewport&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;ui-icon&amp;gt;mat-icon' idx='2' isleaf='1' tag='MAT-ICON' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;ui-app&amp;gt;ng-component&amp;gt;ui-sidenav&amp;gt;mat-sidenav-container&amp;gt;mat-sidenav&amp;gt;div&amp;gt;ui-sidebar-redesign&amp;gt;div&amp;gt;div&amp;gt;ui-folder-sidebar&amp;gt;section&amp;gt;ui-folder-tree&amp;gt;div&amp;gt;div&amp;gt;cdk-virtual-scroll-viewport&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;ui-icon&amp;gt;mat-icon' type='' isleaf='1' tag='MAT-ICON' aaname='folder_shared' check:text='folder_shared' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1DdEC2BeQhEmNMYTttu_JYA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0byVeB33KU02Gvwp70Re6XA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9bc6fb97c1822f4836e824da8954c116.png" xmlns="">0Y5cKYIJSnkK1AEugfZPnFQ</imageRef>
+</TargetAnchorable>

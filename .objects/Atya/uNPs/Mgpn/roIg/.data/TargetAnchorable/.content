@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/loans/result/606f65b70a0e91002d126f49/8/true" ContentHash="jS0TAeNV2keOY1Zd72lIgA" DesignTimeRectangle="425, 535, 1070, 28" FriendlyName="'606f65b70a0e91002d126f49'" FullSelectorArgument="&lt;webctrl id='loanID' tag='H4' /&gt;" FuzzySelectorArgument="&lt;webctrl id='loanID' tag='H4' type='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="76c6ccbec79a178fdb67247a0c809235.png" xmlns="">0s2zTN6oySkOPooQz7gBghg</imageRef>
+</TargetAnchorable>

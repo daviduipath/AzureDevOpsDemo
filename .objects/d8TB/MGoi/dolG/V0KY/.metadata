@@ -1,0 +1,13 @@
+﻿{
+  "Id": "V0KYI9WW4EekF5rtMJ197w",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/V0KYI9WW4EekF5rtMJ197w",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/dolGhnXFQEaqy4xLIM-m2w",
+  "Name": "Username - Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-04-10T14:19:33.311573Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-10T14:19:33.311573Z"
+}

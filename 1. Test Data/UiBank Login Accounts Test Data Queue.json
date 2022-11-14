@@ -1,0 +1,36 @@
+{
+  "$id": "http://example.com/example_remco.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Person",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The person's title."
+    },
+    "first_name": {
+      "type": "string",
+      "description": "The person's first name."
+    },
+    "last_name": {
+      "description": "The person's last name",
+      "type": "string"
+    },
+	"gender": {
+	  "description": "Gender of the person",
+      "type": "string"
+    },
+	"email": {
+	  "description": "Email of the person",
+      "type": "string"
+    },
+    "username": {
+	  "description": "The person's username",
+      "type": "string"
+    },
+    "password": {
+	  "description": "The person's password",
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "d45yixv_oE2-f-5BgvCzLg",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/d45yixv_oE2-f-5BgvCzLg",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/hFGExWrj90axqf8HPi44bw",
+  "Name": "Email address - Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-01-28T01:59:29.5022236Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:29.5022236Z"
+}

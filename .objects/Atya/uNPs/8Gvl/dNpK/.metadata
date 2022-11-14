@@ -1,0 +1,17 @@
+﻿{
+  "Id": "dNpKiPgqWk6JKNB8VJA93g",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/dNpKiPgqWk6JKNB8VJA93g",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/8GvlOrXTEkCdQcnxcHZ25A",
+  "Name": "Loan Amount Requested - Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-01-28T01:59:28.1948338Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.1948338Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

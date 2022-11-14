@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://orch-testingsol-web0-we-webapp.azurewebsites.net/test/data-queues?tid=1&amp;fid=360" ContentHash="sZ6BlsvnTkyN2DXTcm9ObQ" DesignTimeRectangle="703, 188, 37, 12" ElementType="Text" FriendlyName="'Testing'" FullSelectorArgument="&lt;webctrl aaname='Testing' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Testing' tag='SPAN' type='' check:text='Testing' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Data Queues - UiPath Orchestrator' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0I5tXj9fTikWP2WrGkVfeww</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8dba1f7d663cc73b7b2e2b141091cda8.png" xmlns="">0Bz5F5-RK6kalZBWBWXFvPA</imageRef>
+</TargetAnchorable>

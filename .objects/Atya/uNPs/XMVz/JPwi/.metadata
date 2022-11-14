@@ -1,0 +1,17 @@
+﻿{
+  "Id": "JPwiPCfvBUCQmDIWGVGe0Q",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/JPwiPCfvBUCQmDIWGVGe0Q",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/XMVzk4k8YkmmnXnyBLVxeQ",
+  "Name": "Loans - Navigation Breadcrumb",
+  "Type": "Element",
+  "TaxonomyType": "Breadcrumb",
+  "Created": "2022-01-28T01:59:28.9499188Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.9499188Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

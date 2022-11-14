@@ -1,0 +1,14 @@
+﻿{
+  "Id": "dS0JciPB1USG7IAXB-VlOw",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/dS0JciPB1USG7IAXB-VlOw",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/fsplWLbj9UCIuHv0Hlo64A",
+  "Name": "'Vikram Parolkar (MF)' Folder",
+  "Type": "Element",
+  "TaxonomyType": "Sidebar",
+  "Created": "2021-04-10T14:07:10.8911038Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-10T14:07:10.8911038Z"
+}

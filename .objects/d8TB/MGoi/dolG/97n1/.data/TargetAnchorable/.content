@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://orch-testingsol-web0-we-webapp.azurewebsites.net/account/login?returnUrl=%2F" ContentHash="1E4yV4ZbfkGeB2rC4ERawA" DesignTimeRectangle="821, 597, 272, 12" ElementType="InputBoxPassword" FriendlyName="'76b9PzUmq6qp1!'" FullSelectorArgument="&lt;webctrl id='mat-input-1' tag='INPUT' type='password' /&gt;" FuzzySelectorArgument="&lt;webctrl id='mat-input-1' tag='INPUT' type='password' aaname='Password *' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login - UiPath Orchestrator' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="821, 578, 272, 11" ElementType="Text" FriendlyName="'Password *'" FullSelectorArgument="&lt;webctrl id='mat-form-field-label-3' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl id='mat-form-field-label-3' tag='LABEL' type='' aaname='' check:text='Password *' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">9tdnYNz9ufUygmTLHgRSRPA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08xNdTJiGlkOPdrsdPuxBmA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e39dc071d9b0288de1f6f6576575fedb.png" xmlns="">0NX-D8F1pWE2CeLB1ioVZGQ</imageRef>
+</TargetAnchorable>

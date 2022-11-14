@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/loans/apply" ContentHash="M32-hIpa5EWqsg5Mn8zVmg" DesignTimeRectangle="459, 477, 1000, 48" ElementType="InputBox" FriendlyName="'INPUT amount'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='number' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='number' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="459, 438, 245, 30" ElementType="Text" FriendlyName="'Loan Amount Requested'" FullSelectorArgument="&lt;webctrl aaname='Loan Amount Requested' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Loan Amount Requested' tag='LABEL' type='' check:text='Loan Amount Requested' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1YnJqLhwGEkqm7PQ1Ve-0tA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-GlUN12mnkOAU0lsLZScLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d5e6991bd19bd9d6eeaebc82a18c2409.png" xmlns="">01xAoCVmirEeb4djhVUuEeA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hFGExWrj90axqf8HPi44bw",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/hFGExWrj90axqf8HPi44bw",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/uNPsoaN9YkSh4j0q2946lQ",
+  "Name": "Register Account Page",
+  "Type": "Screen",
+  "Created": "2022-01-28T01:59:29.4108711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:29.4108711Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

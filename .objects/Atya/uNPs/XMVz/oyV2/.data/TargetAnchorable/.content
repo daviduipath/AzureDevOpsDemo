@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/" ContentHash="qse8ZZZInkaG67_W7l6BBQ" DesignTimeRectangle="1449, 166, 130, 50" ElementType="Text" FriendlyName="'Products'" FullSelectorArgument="&lt;webctrl aria-role='button' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' tag='A' type='' aaname=' Products ' check:text='Products' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0wVW5npSZjkWWbH1oGKB23g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="777e84f3048fa4e72c0017ecad1539a5.png" xmlns="">0JQXwxIyL5UO5QU6RX6ybTg</imageRef>
+</TargetAnchorable>

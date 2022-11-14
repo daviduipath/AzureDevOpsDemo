@@ -1,0 +1,17 @@
+﻿{
+  "Id": "VeztL8Cqv0OTPiHuY-ERqQ",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/VeztL8Cqv0OTPiHuY-ERqQ",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/XMVzk4k8YkmmnXnyBLVxeQ",
+  "Name": "Username - Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-01-28T01:59:29.3436965Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:29.3436965Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

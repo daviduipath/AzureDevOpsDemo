@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cDAjSU24VEehiGRI14bhKA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/cDAjSU24VEehiGRI14bhKA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/uNPsoaN9YkSh4j0q2946lQ",
+  "Name": "Loans Page",
+  "Type": "Screen",
+  "Created": "2022-01-28T01:59:28.6998887Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.6998887Z"
+}

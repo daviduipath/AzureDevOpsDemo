@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="0ffvXA0I2E6vIawXApRT6w" Selector="&lt;html app='chrome.exe' title='Login - UiPath Orchestrator'/&gt;" Url="https://orch-testingsol-web0-we-webapp.azurewebsites.net/account/login?returnUrl=%2F" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0V2xjbFV17ECk9p-F11_Xuw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6e991fe9f92422a07b9f316d0ddf75e2.png" xmlns="">0nztOGMlLTEmoN28GT0zVBQ</imageRef>
+</TargetApp>

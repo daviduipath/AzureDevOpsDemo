@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/" ContentHash="bB8bsQl0YEyOyd5qF9l08g" DesignTimeRectangle="352, 792, 393, 24" FriendlyName="'Register For Account'" FullSelectorArgument="&lt;webctrl aaname='Register For Account' tag='SMALL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Register For Account' tag='SMALL' type='' check:text='Register For Account' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0IkNPg0wwLka36e7iS8ecqw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b6c083e57ac8312fc6cc260bc8e24341.png" xmlns="">0yhfUQatfY0umhZhxHbFfNQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/" ContentHash="fjFS4bZnEUyvv6Vn1uxS8w" DesignTimeRectangle="352, 696, 393, 63" ElementType="Button" FriendlyName="'Sign In'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='Sign In' check:text='Sign In' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">04gQY_99NT0iSox7g4UT6JA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8a6a5c76a4332219d0e5799f0153d53e.png" xmlns="">0atoH-_WUrky2Fl_A1UVX2w</imageRef>
+</TargetAnchorable>

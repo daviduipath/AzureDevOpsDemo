@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="sR1R22EKT020O5WiP5oXIA" Selector="&lt;html app='chrome.exe' title='Overview - UiPath Orchestrator'/&gt;" Url="https://cloud.uipath.com/uipathpresalesamer/TestSuite_DemoTenant/orchestrator_/?tid=7799&amp;fid=663491" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0_6T7TzVp_kG_ikFInU8n5A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5086a844b14048e836c2d2c06d623d70.png" xmlns="">0DeK6nqf2UEiZ7W0ALwSmCw</imageRef>
+</TargetApp>

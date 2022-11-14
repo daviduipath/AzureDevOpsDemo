@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://orch-testingsol-web0-we-webapp.azurewebsites.net/account/login?returnUrl=%2F" ContentHash="V_SyRwI1YkmVgP658EHPFA" DesignTimeRectangle="821, 661, 294, 28" ElementType="Button" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname=' Login ' check:text='Login' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login - UiPath Orchestrator' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="952, 668, 32, 14" ElementType="Text" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl aaname=' Login ' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Login ' tag='SPAN' type='' check:text='Login' /&gt;" SearchSteps="FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">2znzJWCjIlES4BCHNkIaRLw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">01x2HivqlNUi8w9v7pS_rCA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="49275c5925b75fff2c023f210d0fb9fc.png" xmlns="">0vAlLebsxhk2RkRrqNX65lA</imageRef>
+</TargetAnchorable>

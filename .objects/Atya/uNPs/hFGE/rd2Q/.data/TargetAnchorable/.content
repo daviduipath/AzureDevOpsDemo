@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/register-account" ContentHash="kiGX5R0Hb0qAjYlUMuH1Aw" DesignTimeRectangle="459, 702, 1000, 48" ElementType="DropDown" FriendlyName="'MaleFemale'" FullSelectorArgument="&lt;webctrl id='sex' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='sex' tag='SELECT' type='text' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="459, 662, 34, 30" ElementType="Text" FriendlyName="'Sex'" FullSelectorArgument="&lt;webctrl aaname='Sex' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sex' tag='LABEL' type='' check:text='Sex' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0FloBMGK31US3qWEC8XofVQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="d25d428c1454b4ed17ce7d9019f8e07d.png" xmlns="">0iMrQWCGYL0e86Ap2J7SsvQ</imageRef>
+</TargetAnchorable>

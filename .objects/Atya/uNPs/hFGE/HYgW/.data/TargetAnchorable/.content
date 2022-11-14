@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uibank.uipath.com/register-account" ContentHash="6hrTYP956EydSkK1OyFn1Q" DesignTimeRectangle="459, 487, 1000, 48" ElementType="InputBox" FriendlyName="'INPUT middleName'" FullSelectorArgument="&lt;webctrl id='middleName' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='middleName' tag='INPUT' type='text' aaname='Middle Name Or Initial' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="459, 447, 220, 30" ElementType="Text" FriendlyName="'Middle Name Or Initial'" FullSelectorArgument="&lt;webctrl aaname='Middle Name Or Initial' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Middle Name Or Initial' tag='LABEL' type='' check:text='Middle Name Or Initial' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">13bzchg95lEmKVeebs10_fQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0EnKz0skO-Uq6qLtYrwnI1w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8918dcbe6e3167ef3a35800106ba0129.png" xmlns="">0bd91iYyYzUmNCNqmwXwWig</imageRef>
+</TargetAnchorable>

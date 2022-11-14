@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/testsuite_presales/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "48259615-3929-0000-a938-0b44a57e14d5",
+    "name": "DSG_TestDataManagement",
+    "key": "DSGTDM"
+  }
+}

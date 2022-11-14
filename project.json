@@ -1,0 +1,86 @@
+{
+  "name": "DigitalTester_TestDataManagement_DSG",
+  "description": "Demo process that can be run attended to generate test data for UiBank Login Account Test Cases",
+  "main": "Create User Data.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Form.Activities": "[1.9.1]",
+    "UiPath.Mail.Activities": "[1.12.3]",
+    "UiPath.System.Activities": "[21.10.4]",
+    "UiPath.Testing.Activities": "[1.4.6]",
+    "UiPath.UIAutomation.Activities": "[21.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.1.0",
+  "projectVersion": "1.0.121883448",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5e3bf737-03e9-41bc-b2d7-f5b75b2b199d",
+        "testCaseType": "TestCase",
+        "fileName": "TC_Login_IncorrectPassword_DSG.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "eecc27fd-3322-48ac-ab2b-deb87386d3c4",
+        "testCaseType": "TestCase",
+        "fileName": "TC_Login_UnverifiedUser_DSG.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "edf9e8cc-7422-4524-804f-7f708ac7f71e",
+        "testCaseType": "TestCase",
+        "fileName": "TC_Login_IncorrectPassword_DSG - Copy (1).xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Create User Data.xaml",
+      "uniqueId": "5b555660-fb55-4dea-9d22-3d387bafec52",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {
+    "iconUrl": ".package/RobotImage.jpeg"
+  },
+  "targetFramework": "Legacy"
+}

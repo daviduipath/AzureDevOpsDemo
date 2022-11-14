@@ -1,0 +1,18 @@
+﻿{
+  "Id": "XMVzk4k8YkmmnXnyBLVxeQ",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/XMVzk4k8YkmmnXnyBLVxeQ",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/uNPsoaN9YkSh4j0q2946lQ",
+  "Name": "Main Page",
+  "Type": "Screen",
+  "Created": "2022-01-28T01:59:28.8623899Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=20.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.8623899Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

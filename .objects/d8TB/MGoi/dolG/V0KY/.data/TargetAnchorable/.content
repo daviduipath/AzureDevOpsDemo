@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://orch-testingsol-web0-we-webapp.azurewebsites.net/account/login?returnUrl=%2F" ContentHash="7LmzLmq4Iki4ZLzlbY949Q" DesignTimeRectangle="821, 537, 294, 12" ElementType="InputBox" FriendlyName="'vikram.parolkar'" FullSelectorArgument="&lt;webctrl id='mat-input-0' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='mat-input-0' tag='INPUT' type='text' aaname='Username or email *' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login - UiPath Orchestrator' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="821, 518, 294, 11" ElementType="Text" FriendlyName="'Username or email *'" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' aaname='' check:text='Username or email *' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1rWJqzAe_IUSDa1kGcZldWw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Dop8srHSHUeb9VfIZLO8Nw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="81391f160489c5092e8dbefcc6b2ec27.png" xmlns="">0jh4jecoKMESnfYnveX5TwA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,18 @@
+﻿{
+  "Id": "9AUhe0kvbUizhSuxxx17sA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/9AUhe0kvbUizhSuxxx17sA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/Mgpn9TGpBkir_shXcGs2YA",
+  "Name": "Loan Deny Message - Text",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-01-28T01:59:28.5276483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.5276483Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

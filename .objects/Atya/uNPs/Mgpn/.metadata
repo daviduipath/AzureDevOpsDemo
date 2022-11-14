@@ -1,0 +1,15 @@
+﻿{
+  "Id": "Mgpn9TGpBkir_shXcGs2YA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/Mgpn9TGpBkir_shXcGs2YA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/uNPsoaN9YkSh4j0q2946lQ",
+  "Name": "Loan Application Results Page",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-01-28T01:59:28.3692066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.3692066Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "97n1_pZkok6Tfa7zhCbW0g",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/97n1_pZkok6Tfa7zhCbW0g",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/dolGhnXFQEaqy4xLIM-m2w",
+  "Name": "Password - Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2021-04-10T14:20:12.4411173Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-10T14:20:21.9980921Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

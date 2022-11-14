@@ -1,0 +1,14 @@
+﻿{
+  "Id": "nDOGfhexf0OPBt_s55UkGA",
+  "Reference": "wVI5HSW7LEyT7q7uNHBieA/nDOGfhexf0OPBt_s55UkGA",
+  "ParentRef": "wVI5HSW7LEyT7q7uNHBieA/Mgpn9TGpBkir_shXcGs2YA",
+  "Name": "Loan Approval Message - Text",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-01-28T01:59:28.4746501Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-28T01:59:28.4746501Z"
+}
